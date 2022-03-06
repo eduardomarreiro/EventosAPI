@@ -87,6 +87,7 @@ namespace ProEventos.API.Controllers
             {
                 var evento = await _service.UpdateEvento(id, model);
                 if (evento == null) return BadRequest("Erro ao atualizar evento.");
+               
                 return Ok(evento);
             }
             catch (Exception ex)
