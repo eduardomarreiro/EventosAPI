@@ -72,3 +72,6 @@ C:\Aprendendo CSharp\Praticando\ProEventos\Back\src\ProEventos.API\ProEventos.AP
 C:\Aprendendo CSharp\Praticando\ProEventos\Back\src\ProEventos.API\ProEventos.API\bin\Debug\net5.0\ProEventos.Shared.pdb
 C:\Aprendendo CSharp\Praticando\ProEventos\Back\src\ProEventos.API\ProEventos.API\bin\Debug\net5.0\ProEventos.Application.dll
 C:\Aprendendo CSharp\Praticando\ProEventos\Back\src\ProEventos.API\ProEventos.API\bin\Debug\net5.0\ProEventos.Application.pdb
+C:\Aprendendo CSharp\Praticando\ProEventos\Back\src\ProEventos.API\ProEventos.API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Aprendendo CSharp\Praticando\ProEventos\Back\src\ProEventos.API\ProEventos.API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Aprendendo CSharp\Praticando\ProEventos\Back\src\ProEventos.API\ProEventos.API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll

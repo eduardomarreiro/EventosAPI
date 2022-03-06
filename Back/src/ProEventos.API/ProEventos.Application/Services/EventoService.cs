@@ -46,7 +46,7 @@ namespace ProEventos.Application.Services
 
                 model.Id = evento.Id;
 
-                _repo.Update(evento);
+                _repo.Update(model);
                 if (await _repo.SavaChangesAsync())
                 {
                     return await _eventoRepo.GetEventosByIdAsync(evento.Id, false);

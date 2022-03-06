@@ -35,9 +35,15 @@ namespace ProEventos.API
             services.AddTransient<IEventoService, EventoService>();
             services.AddScoped<IEventoRepository, EventoRepository>();
             services.AddScoped<IRepository, Repository>();
+
             services.AddDbContext<ProEventosContext>(x => x.UseSqlServer(Configuration.GetConnectionString("Default")));
-            services.AddCors();           
-            services.AddControllers();
+
+            services.AddCors();      
+            
+            services.AddControllers()
+                .AddNewtonsoftJson(x => x.SerializerSettings.ReferenceLoopHandling = 
+                Newtonsoft.Json.ReferenceLoopHandling.Ignore);
+
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "ProEventos.API", Version = "v1" });
