@@ -1,6 +1,5 @@
 C:\Aprendendo CSharp\Praticando\ProEventos\Back\src\ProEventos.API\ProEventos.Application\bin\Debug\net5.0\ProEventos.Application.deps.json
 C:\Aprendendo CSharp\Praticando\ProEventos\Back\src\ProEventos.API\ProEventos.Application\bin\Debug\net5.0\ProEventos.Application.dll
-C:\Aprendendo CSharp\Praticando\ProEventos\Back\src\ProEventos.API\ProEventos.Application\bin\Debug\net5.0\ref\ProEventos.Application.dll
 C:\Aprendendo CSharp\Praticando\ProEventos\Back\src\ProEventos.API\ProEventos.Application\bin\Debug\net5.0\ProEventos.Application.pdb
 C:\Aprendendo CSharp\Praticando\ProEventos\Back\src\ProEventos.API\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.csproj.AssemblyReference.cache
 C:\Aprendendo CSharp\Praticando\ProEventos\Back\src\ProEventos.API\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.GeneratedMSBuildEditorConfig.editorconfig
@@ -15,3 +14,4 @@ C:\Aprendendo CSharp\Praticando\ProEventos\Back\src\ProEventos.API\ProEventos.Ap
 C:\Aprendendo CSharp\Praticando\ProEventos\Back\src\ProEventos.API\ProEventos.Application\bin\Debug\net5.0\ProEventos.Domain.pdb
 C:\Aprendendo CSharp\Praticando\ProEventos\Back\src\ProEventos.API\ProEventos.Application\bin\Debug\net5.0\ProEventos.Shared.pdb
 C:\Aprendendo CSharp\Praticando\ProEventos\Back\src\ProEventos.API\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.csproj.CopyComplete
+C:\Aprendendo CSharp\Praticando\ProEventos\Back\src\ProEventos.API\ProEventos.Application\obj\Debug\net5.0\refint\ProEventos.Application.dll
