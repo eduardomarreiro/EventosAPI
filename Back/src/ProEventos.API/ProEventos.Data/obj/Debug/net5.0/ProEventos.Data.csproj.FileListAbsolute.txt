@@ -2,7 +2,6 @@ C:\Aprendendo CSharp\Praticando\ProEventos\Back\src\ProEventos.API\ProEventos.Da
 C:\Aprendendo CSharp\Praticando\ProEventos\Back\src\ProEventos.API\ProEventos.Data\bin\Debug\net5.0\ProEventos.Data.runtimeconfig.json
 C:\Aprendendo CSharp\Praticando\ProEventos\Back\src\ProEventos.API\ProEventos.Data\bin\Debug\net5.0\ProEventos.Data.runtimeconfig.dev.json
 C:\Aprendendo CSharp\Praticando\ProEventos\Back\src\ProEventos.API\ProEventos.Data\bin\Debug\net5.0\ProEventos.Data.dll
-C:\Aprendendo CSharp\Praticando\ProEventos\Back\src\ProEventos.API\ProEventos.Data\bin\Debug\net5.0\ref\ProEventos.Data.dll
 C:\Aprendendo CSharp\Praticando\ProEventos\Back\src\ProEventos.API\ProEventos.Data\bin\Debug\net5.0\ProEventos.Data.pdb
 C:\Aprendendo CSharp\Praticando\ProEventos\Back\src\ProEventos.API\ProEventos.Data\bin\Debug\net5.0\ProEventos.Domain.dll
 C:\Aprendendo CSharp\Praticando\ProEventos\Back\src\ProEventos.API\ProEventos.Data\bin\Debug\net5.0\ProEventos.Domain.pdb
@@ -18,3 +17,4 @@ C:\Aprendendo CSharp\Praticando\ProEventos\Back\src\ProEventos.API\ProEventos.Da
 C:\Aprendendo CSharp\Praticando\ProEventos\Back\src\ProEventos.API\ProEventos.Data\obj\Debug\net5.0\ProEventos.Data.genruntimeconfig.cache
 C:\Aprendendo CSharp\Praticando\ProEventos\Back\src\ProEventos.API\ProEventos.Data\bin\Debug\net5.0\ProEventos.Shared.dll
 C:\Aprendendo CSharp\Praticando\ProEventos\Back\src\ProEventos.API\ProEventos.Data\bin\Debug\net5.0\ProEventos.Shared.pdb
+C:\Aprendendo CSharp\Praticando\ProEventos\Back\src\ProEventos.API\ProEventos.Data\obj\Debug\net5.0\refint\ProEventos.Data.dll

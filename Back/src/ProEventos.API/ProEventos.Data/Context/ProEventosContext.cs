@@ -14,7 +14,7 @@ namespace ProEventos.Data.Context
         {
         }
         public DbSet<Evento> Eventos { get; set; }
-        public DbSet<Lote> Lotes{ get; set; }
+        public DbSet<Lote> Lotes { get; set; }
         public DbSet<Palestrante> Palestrantes { get; set; }
         public DbSet<Palestrante> PalestrantesEventos { get; set; }
         public DbSet<RedeSocial> RedesSociais { get; set; }

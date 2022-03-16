@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace ProEventos.Data.Migrations
 {
-    public partial class Inicial : Migration
+    public partial class primeiro : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -110,13 +110,13 @@ namespace ProEventos.Data.Migrations
                         column: x => x.EventoId,
                         principalTable: "Eventos",
                         principalColumn: "Id",
-                        onDelete: ReferentialAction.Restrict);
+                        onDelete: ReferentialAction.Cascade);
                     table.ForeignKey(
                         name: "FK_RedesSociais_Palestrante_PalestranteId",
                         column: x => x.PalestranteId,
                         principalTable: "Palestrante",
                         principalColumn: "Id",
-                        onDelete: ReferentialAction.Restrict);
+                        onDelete: ReferentialAction.Cascade);
                 });
 
             migrationBuilder.CreateIndex(

@@ -10,8 +10,8 @@ using ProEventos.Data.Context;
 namespace ProEventos.Data.Migrations
 {
     [DbContext(typeof(ProEventosContext))]
-    [Migration("20220224200741_Inicial")]
-    partial class Inicial
+    [Migration("20220311211402_primeiro")]
+    partial class primeiro
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -190,11 +190,13 @@ namespace ProEventos.Data.Migrations
                 {
                     b.HasOne("ProEventos.Domain.Models.Evento", "Evento")
                         .WithMany("RedesSociais")
-                        .HasForeignKey("EventoId");
+                        .HasForeignKey("EventoId")
+                        .OnDelete(DeleteBehavior.Cascade);
 
                     b.HasOne("ProEventos.Domain.Models.Palestrante", "Palestrante")
                         .WithMany("RedesSociais")
-                        .HasForeignKey("PalestranteId");
+                        .HasForeignKey("PalestranteId")
+                        .OnDelete(DeleteBehavior.Cascade);
 
                     b.Navigation("Evento");
 
